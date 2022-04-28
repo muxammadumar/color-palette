@@ -5,7 +5,7 @@
 
       <div class="buttons">
         <div @click="addColor()" class="button">Add a color</div>
-        <div @click="removeColor()" class="button">Remove a color</div>
+        <div @click="removeColor()" class="button">Remove color</div>
       </div>
     </div>
 
